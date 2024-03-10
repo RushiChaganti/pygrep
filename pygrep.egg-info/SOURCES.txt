@@ -1,0 +1,8 @@
+README.md
+setup.py
+pygrep/__init__.py
+pygrep/pygrep.py
+pygrep.egg-info/PKG-INFO
+pygrep.egg-info/SOURCES.txt
+pygrep.egg-info/dependency_links.txt
+pygrep.egg-info/top_level.txt
